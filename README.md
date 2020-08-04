@@ -26,6 +26,6 @@
     - Value: 30 points
 	
 
-  - Create a method that, given an integer, can raise each digit to the power of the overall length and return whether the sum of the powers is equal to the original integer.
+  - Create a method that, given an integer, can raise each digit to the power of the overall length and return whether the sum of the powers is eqgit ual to the original integer.
     - Value: 40 points
 
