@@ -4,6 +4,6 @@ git:
     depth: false
 script: ./build.sh
 notifications:
-    email: sb937@njit.edu
+    email: 
     #enter your email address below
-        - example@example.com
+        - sb937@njit.edu
